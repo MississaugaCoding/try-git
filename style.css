@@ -1,0 +1,10 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.about {
+    border: 1px solid #ccc;
+    padding: 15px;
+    box-shadow: 2px 2px 4px #aaa;
+    
+}
